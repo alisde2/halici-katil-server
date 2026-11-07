@@ -1,0 +1,10 @@
+{
+  "name": "halici-katil-sunucu",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Halıcı Katil çok oyunculu oda sunucusu (Render ücretsiz web servisi)",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
